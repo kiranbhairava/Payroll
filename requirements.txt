@@ -40,7 +40,7 @@ Pygments==2.18.0
 python-dateutil==2.9.0.post0
 python-docx==1.1.2
 pytz==2024.1
-pywin32==306
+pywin32
 referencing==0.35.1
 reportlab==4.2.2
 requests==2.32.3
