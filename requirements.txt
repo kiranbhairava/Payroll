@@ -4,3 +4,4 @@ inflect
 reportlab
 mysql-connector-python
 mysqlclient
+PyMySQL
